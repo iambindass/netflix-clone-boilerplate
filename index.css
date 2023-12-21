@@ -8,7 +8,7 @@ body
 {
  background-color: #141414;
  color: white;
- background-image: url(./Title-Image.png);
+ background-image: url(assets/Title-Image.png);
  background-repeat: no-repeat;
  background-size: 100%;
 }
